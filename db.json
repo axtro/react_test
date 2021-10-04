@@ -52,507 +52,708 @@
       "name": "Videos de progreso"
     }
   ],
-  "instructors": [],
+  "instructors": [
+    {
+      "id": 199516,
+      "name": "Arantxa Martínez"
+    },
+    {
+      "id": 127255,
+      "name": "Thais Plaza Martínez"
+    },
+    {
+      "id": 125670,
+      "name": "Loren Boluda"
+    },
+    {
+      "id": 199519,
+      "name": "Carmen Aibar"
+    },
+    {
+      "id": 87753,
+      "name": "Pedro Ferrer"
+    },
+    {
+      "id": 106770,
+      "name": "Juan Carlos Griñán"
+    },
+    {
+      "id": 55689,
+      "name": "Rubén Alonso Gay"
+    },
+    {
+      "id": 120030,
+      "name": "Carlos Grau Ruiz"
+    },
+    {
+      "id": 34611,
+      "name": "Roberto Jiménez"
+    },
+    {
+      "id": 199516,
+      "name": "Arantxa Martínez"
+    },
+    {
+      "id": 66080,
+      "name": "Lucía De Santos"
+    },
+    {
+      "id": 127255,
+      "name": "Thais Plaza Martínez"
+    },
+    {
+      "id": 34611,
+      "name": "Roberto Jiménez"
+    },
+    {
+      "id": 127255,
+      "name": "Thais Plaza Martínez"
+    },
+    {
+      "id": 245415,
+      "name": "Unai Aguilera"
+    },
+    {
+      "id": 66080,
+      "name": "Lucía De Santos"
+    },
+    {
+      "id": 199516,
+      "name": "Arantxa Martínez"
+    },
+    {
+      "id": 87753,
+      "name": "Pedro Ferrer"
+    },
+    {
+      "id": 34611,
+      "name": "Roberto Jiménez"
+    },
+    {
+      "id": 7235,
+      "name": "Nacho Bosquet"
+    },
+    {
+      "id": 7445,
+      "name": "Laura Domingo"
+    },
+    {
+      "id": 7445,
+      "name": "Laura Domingo"
+    },
+    {
+      "id": 6850,
+      "name": "Juan Carlos Rodríguez"
+    },
+    {
+      "id": 199519,
+      "name": "Carmen Aibar"
+    },
+    {
+      "id": 199516,
+      "name": "Arantxa Martínez"
+    },
+    {
+      "id": 7235,
+      "name": "Nacho Bosquet"
+    },
+    {
+      "id": 55689,
+      "name": "Rubén Alonso Gay"
+    },
+    {
+      "id": 22847,
+      "name": "Belén Zomeño García"
+    },
+    {
+      "id": 55689,
+      "name": "Rubén Alonso Gay"
+    },
+    {
+      "id": 26251,
+      "name": "Sergio Velázquez"
+    },
+    {
+      "id": 199516,
+      "name": "Arantxa Martínez"
+    },
+    {
+      "id": 66080,
+      "name": "Lucía De Santos"
+    },
+    {
+      "id": 55689,
+      "name": "Rubén Alonso Gay"
+    },
+    {
+      "id": 15029,
+      "name": "César Bosquet"
+    },
+    {
+      "id": 106770,
+      "name": "Juan Carlos Griñán"
+    },
+    {
+      "id": 199519,
+      "name": "Carmen Aibar"
+    },
+    {
+      "id": 22847,
+      "name": "Belén Zomeño García"
+    },
+    {
+      "id": 6850,
+      "name": "Juan Carlos Rodríguez"
+    },
+    {
+      "id": 55689,
+      "name": "Rubén Alonso Gay"
+    },
+    {
+      "id": 199516,
+      "name": "Arantxa Martínez"
+    },
+    {
+      "id": 66080,
+      "name": "Lucía De Santos"
+    },
+    {
+      "id": 66080,
+      "name": "Lucía De Santos"
+    },
+    {
+      "id": 34611,
+      "name": "Roberto Jiménez"
+    },
+    {
+      "id": 55689,
+      "name": "Rubén Alonso Gay"
+    },
+    {
+      "id": 87752,
+      "name": "Lorena Isasi"
+    },
+    {
+      "id": 87753,
+      "name": "Pedro Ferrer"
+    },
+    {
+      "id": 199516,
+      "name": "Arantxa Martínez"
+    },
+    {
+      "id": 245415,
+      "name": "Unai Aguilera"
+    },
+    {
+      "id": 199519,
+      "name": "Carmen Aibar"
+    },
+    {
+      "id": 34611,
+      "name": "Roberto Jiménez"
+    }
+  ],
   "training_classes": [
     {
       "id": 50,
-      "name": "BC6 - 40 Principales",
-      "instructor_id": 32461,
-      "category_id": 1,
+      "name": "BW31 - Frenar Vs. Acelerar",
+      "instructor_id": 34611,
+      "category_id": 2,
       "level": 3,
-      "duration": 3208,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/131/m.png?1622210924",
-      "published": 1359116520000
+      "duration": 3078,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/443/m.png?1629198190",
+      "published": 1629180300000
     },
     {
       "id": 49,
-      "name": "BC22 - ",
-      "instructor_id": 15029,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3360,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/129/m.png?1622803496",
-      "published": 1358511300000
+      "name": "BB48 - Suelta piernas y cadera",
+      "instructor_id": 199519,
+      "category_id": 11,
+      "level": 2,
+      "duration": 2871,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/305/760/m.png?1627477967",
+      "published": 1629180600000
     },
     {
       "id": 48,
-      "name": "BC5 - ",
-      "instructor_id": 87755,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3418,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/125/m.png?1622386731",
-      "published": 1358525880000
+      "name": "BT137 - Core, reduce cintura!",
+      "instructor_id": 245415,
+      "category_id": 41,
+      "level": 2,
+      "duration": 1785,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/261/m.png?1629110488",
+      "published": 1629180900000
     },
     {
       "id": 47,
-      "name": "BC7 - ",
-      "instructor_id": 87753,
-      "category_id": 1,
-      "level": 2,
-      "duration": 3235,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/121/m.png?1622803495",
-      "published": 1357993860000
+      "name": "BT109 - Sudor y pierna",
+      "instructor_id": 199516,
+      "category_id": 41,
+      "level": 3,
+      "duration": 2217,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/305/937/m.png?1629108327",
+      "published": 1629181800000
     },
     {
       "id": 46,
-      "name": "BW5 - ",
-      "instructor_id": 6850,
-      "category_id": 2,
+      "name": "BC87 - Potencia Remember ",
+      "instructor_id": 87753,
+      "category_id": 1,
       "level": 2,
-      "duration": 3111,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/119/m.png?1622386726",
-      "published": 1357998780000
+      "duration": 3027,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/217/m.png?1629184898",
+      "published": 1629183900000
     },
     {
       "id": 45,
-      "name": "BC6 - Shadows the sun",
+      "name": "BC66 - Las tres diferencias",
       "instructor_id": 87752,
       "category_id": 1,
-      "level": 2,
-      "duration": 3182,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/127/m.png?1622210921",
-      "published": 1357984440000
+      "level": 3,
+      "duration": 3064,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/303/819/m.png?1629185325",
+      "published": 1629184200000
     },
     {
       "id": 44,
-      "name": "BTT 2 - Juan Carlos Rodríguez - Rutina completa - ",
-      "instructor_id": 6850,
-      "category_id": 3,
-      "level": 3,
-      "duration": 3000,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/080/146/m.png?1622392377",
-      "published": 1357580340000
+      "name": "BR32 - Espanglish",
+      "instructor_id": 55689,
+      "category_id": 31,
+      "level": 2,
+      "duration": 2934,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/310/783/m.png?1629992635",
+      "published": 1629788400000
     },
     {
       "id": 43,
-      "name": "BC25 - Armstrong vs Pantani \"Mont Ventoux\"",
-      "instructor_id": 6850,
+      "name": "BC51 - Frena Vs Acelera",
+      "instructor_id": 34611,
       "category_id": 1,
-      "level": 2,
-      "duration": 3321,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/117/m.png?1622803491",
-      "published": 1357560660000
+      "level": 3,
+      "duration": 3034,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/451/m.png?1629876174",
+      "published": 1629788400000
     },
     {
       "id": 42,
-      "name": "BW6 - Let me love",
-      "instructor_id": 32461,
-      "category_id": 2,
+      "name": "BC32 - Let´s Get Back ",
+      "instructor_id": 66080,
+      "category_id": 1,
       "level": 2,
-      "duration": 2962,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/125/m.png?1622210920",
-      "published": 1357575960000
+      "duration": 3044,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/447/m.png?1629877514",
+      "published": 1629788400000
     },
     {
       "id": 41,
-      "name": "BC3 - Lift me up",
-      "instructor_id": 87754,
-      "category_id": 1,
-      "level": 2,
-      "duration": 2994,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/120/m.png?1622210916",
-      "published": 1356861600000
+      "name": "BB36 - Movimiento por todo el cuerpo",
+      "instructor_id": 66080,
+      "category_id": 11,
+      "level": 1,
+      "duration": 2554,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/445/m.png?1629181195",
+      "published": 1629789000000
     },
     {
       "id": 40,
-      "name": "BW5 - Believe",
-      "instructor_id": 32461,
-      "category_id": 2,
-      "level": 1,
-      "duration": 2842,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/118/m.png?1622803487",
-      "published": 1356798360000
+      "name": "BT110 - Quema grasa por bloques",
+      "instructor_id": 199516,
+      "category_id": 41,
+      "level": 3,
+      "duration": 3010,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/305/933/m.png?1629798595",
+      "published": 1629792120000
     },
     {
       "id": 39,
-      "name": "BC1 - ",
-      "instructor_id": 6924,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3153,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/116/m.png?1622803487",
-      "published": 1356083640000
+      "name": "BW21 - La fiesta del pueblo Vol.1",
+      "instructor_id": 55689,
+      "category_id": 2,
+      "level": 2,
+      "duration": 2897,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/310/924/m.png?1629800358",
+      "published": 1629792900000
     },
     {
       "id": 38,
-      "name": "BC5 - Entre dos aguas",
-      "instructor_id": 87752,
-      "category_id": 1,
-      "level": 1,
-      "duration": 2923,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/114/m.png?1622210912",
-      "published": 1356083640000
+      "name": "BT138 - Fuerza funcional",
+      "instructor_id": 6850,
+      "category_id": 41,
+      "level": 2,
+      "duration": 1904,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/310/695/m.png?1629800922",
+      "published": 1629795660000
     },
     {
       "id": 37,
-      "name": "BW4 - ",
-      "instructor_id": 6850,
-      "category_id": 2,
-      "level": 2,
-      "duration": 3111,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/111/m.png?1622803485",
-      "published": 1356097980000
+      "name": "BR9 - Bloques simétricos",
+      "instructor_id": 22847,
+      "category_id": 31,
+      "level": 1,
+      "duration": 3217,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/312/654/m.png?1630415973",
+      "published": 1630393200000
     },
     {
       "id": 36,
-      "name": "BW2 - Iniciándonos",
-      "instructor_id": 87752,
-      "category_id": 2,
-      "level": 1,
-      "duration": 2664,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/112/m.png?1622803484",
-      "published": 1355490480000
+      "name": "BB46 - Estiramiento garantizado",
+      "instructor_id": 199519,
+      "category_id": 11,
+      "level": 3,
+      "duration": 2481,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/455/m.png?1629181400",
+      "published": 1630393200000
     },
     {
       "id": 35,
-      "name": "BC5 - La oscuridad",
-      "instructor_id": 32461,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3039,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/110/m.png?1622210910",
-      "published": 1355487720000
+      "name": "BW27 - Sin trampa ni cartón",
+      "instructor_id": 106770,
+      "category_id": 2,
+      "level": 2,
+      "duration": 3082,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/311/707/m.png?1630404238",
+      "published": 1630393200000
     },
     {
       "id": 34,
-      "name": "BTT 1 - Nacho Bosquet - Rutina complementaria - ",
-      "instructor_id": 7235,
-      "category_id": 3,
+      "name": "BC59 - Sujeta las riendas ",
+      "instructor_id": 15029,
+      "category_id": 1,
       "level": 2,
-      "duration": 1500,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/079/022/m.png?1622392077",
-      "published": 1355333940000
+      "duration": 3234,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/312/339/m.png?1631011224",
+      "published": 1630393200000
     },
     {
       "id": 33,
-      "name": "BC6 - ",
-      "instructor_id": 87753,
+      "name": "BC38 - Entrena con M.Jackson",
+      "instructor_id": 55689,
       "category_id": 1,
       "level": 3,
-      "duration": 3475,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/107/m.png?1622803479",
-      "published": 1354365060000
+      "duration": 3759,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/312/343/m.png?1630405862",
+      "published": 1630393200000
     },
     {
       "id": 32,
-      "name": "BC4 - Love is gone",
-      "instructor_id": 32461,
-      "category_id": 1,
+      "name": "BT139 - La triple cima",
+      "instructor_id": 66080,
+      "category_id": 41,
       "level": 2,
-      "duration": 3159,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/106/m.png?1622803478",
-      "published": 1354364520000
+      "duration": 3078,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/771/m.png?1629267641",
+      "published": 1630393200000
     },
     {
       "id": 31,
-      "name": "BC20 - ",
-      "instructor_id": 15029,
-      "category_id": 1,
-      "level": 1,
-      "duration": 2820,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/104/m.png?1622803477",
-      "published": 1354364100000
+      "name": "BT140 - Congestión a tres núcleos",
+      "instructor_id": 199516,
+      "category_id": 41,
+      "level": 2,
+      "duration": 2944,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/769/m.png?1630304553",
+      "published": 1630393200000
     },
     {
       "id": 30,
-      "name": "BC2 - Caída libre",
-      "instructor_id": 87754,
+      "name": "BC10 - Reto sentado: De par en par",
+      "instructor_id": 26251,
       "category_id": 1,
       "level": 2,
-      "duration": 3087,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/101/m.png?1622210906",
-      "published": 1352973600000
+      "duration": 3288,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/305/065/m.png?1631010338",
+      "published": 1630998000000
     },
     {
       "id": 29,
-      "name": "BC4 - Nothing inside",
-      "instructor_id": 87752,
-      "category_id": 1,
+      "name": "BW22 - Entrena con M.Jackson",
+      "instructor_id": 55689,
+      "category_id": 2,
       "level": 3,
-      "duration": 3168,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/099/m.png?1622210902",
-      "published": 1352973240000
+      "duration": 2959,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/314/357/m.png?1631085401",
+      "published": 1630998000000
     },
     {
       "id": 28,
-      "name": "BW4 - Superando retos",
-      "instructor_id": 32461,
-      "category_id": 2,
+      "name": "BC42 - Mantén La cadencia",
+      "instructor_id": 22847,
+      "category_id": 1,
       "level": 3,
-      "duration": 2842,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/097/m.png?1622210900",
-      "published": 1351787160000
+      "duration": 3022,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/312/981/m.png?1631010242",
+      "published": 1630998000000
     },
     {
       "id": 27,
-      "name": "BW3 - ",
-      "instructor_id": 6850,
-      "category_id": 2,
-      "level": 1,
-      "duration": 3209,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/099/m.png?1622803468",
-      "published": 1350910380000
+      "name": "BR33 - Wake up!",
+      "instructor_id": 55689,
+      "category_id": 31,
+      "level": 2,
+      "duration": 1615,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/314/351/m.png?1631015658",
+      "published": 1630998660000
     },
     {
       "id": 26,
-      "name": "BW3 - Pendulum",
-      "instructor_id": 32461,
-      "category_id": 2,
-      "level": 3,
-      "duration": 3296,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/095/m.png?1622210898",
-      "published": 1350259800000
+      "name": "BT141 - El remador",
+      "instructor_id": 7235,
+      "category_id": 41,
+      "level": 2,
+      "duration": 1894,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/313/987/m.png?1630997270",
+      "published": 1630999140000
     },
     {
       "id": 25,
-      "name": "BW2 - ",
-      "instructor_id": 6850,
-      "category_id": 2,
-      "level": 2,
-      "duration": 3281,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/097/m.png?1622803463",
-      "published": 1349786280000
+      "name": "BT111 - Estaciones de Hiit full body",
+      "instructor_id": 199516,
+      "category_id": 41,
+      "level": 3,
+      "duration": 2489,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/309/767/m.png?1631010520",
+      "published": 1631001960000
     },
     {
       "id": 24,
-      "name": "BW2 - El mar",
-      "instructor_id": 32461,
-      "category_id": 2,
+      "name": "BB49 - Long. Un regalo para tu cuerpo.",
+      "instructor_id": 199519,
+      "category_id": 11,
       "level": 2,
-      "duration": 3508,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/093/m.png?1622210896",
-      "published": 1348853520000
+      "duration": 3545,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/311/705/m.png?1630045884",
+      "published": 1631005200000
     },
     {
       "id": 23,
-      "name": "BW1 - Trabajo duro",
-      "instructor_id": 87752,
-      "category_id": 2,
-      "level": 1,
-      "duration": 2853,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/091/m.png?1622210894",
-      "published": 1348229280000
+      "name": "BC67 - Carga tus baterías",
+      "instructor_id": 6850,
+      "category_id": 1,
+      "level": 2,
+      "duration": 3059,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/314/399/m.png?1631010959",
+      "published": 1631008800000
     },
     {
       "id": 22,
-      "name": "BW1 - ",
-      "instructor_id": 6850,
-      "category_id": 2,
-      "level": 2,
-      "duration": 3056,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/095/m.png?1622803460",
-      "published": 1347705180000
-    },
-    {
-      "id": 21,
-      "name": "BW1 - Félix",
-      "instructor_id": 32461,
-      "category_id": 2,
-      "level": 2,
-      "duration": 3034,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/089/m.png?1622210892",
-      "published": 1347014340000
-    },
-    {
-      "id": 20,
-      "name": "BC5 - ",
-      "instructor_id": 87753,
-      "category_id": 1,
-      "level": 2,
-      "duration": 3089,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/093/m.png?1622386711",
-      "published": 1350908880000
-    },
-    {
-      "id": 19,
-      "name": "BC4 - ",
-      "instructor_id": 87753,
-      "category_id": 1,
-      "level": 1,
-      "duration": 2952,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/091/m.png?1622803456",
-      "published": 1348853160000
-    },
-    {
-      "id": 18,
-      "name": "BC4 - ",
-      "instructor_id": 87755,
-      "category_id": 1,
-      "level": 3,
-      "duration": 2938,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/089/m.png?1622386707",
-      "published": 1351786680000
-    },
-    {
-      "id": 17,
-      "name": "BC3 - ",
-      "instructor_id": 87753,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3627,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/087/m.png?1622803453",
-      "published": 1347013860000
-    },
-    {
-      "id": 16,
-      "name": "BC3 - Fight",
-      "instructor_id": 87752,
-      "category_id": 1,
-      "level": 2,
-      "duration": 3376,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/087/m.png?1622210890",
-      "published": 1349784540000
-    },
-    {
-      "id": 15,
-      "name": "BC3 - ",
-      "instructor_id": 87755,
-      "category_id": 1,
-      "level": 2,
-      "duration": 2988,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/085/m.png?1622386705",
-      "published": 1347704820000
-    },
-    {
-      "id": 14,
-      "name": "BC3 - Goldeneye",
-      "instructor_id": 32461,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3485,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/085/m.png?1622210888",
-      "published": 1350259380000
-    },
-    {
-      "id": 13,
-      "name": "BC2 - ",
-      "instructor_id": 87753,
-      "category_id": 1,
-      "level": 2,
-      "duration": 3200,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/079/m.png?1622803444",
-      "published": 1345636020000
-    },
-    {
-      "id": 12,
-      "name": "BC2 - Out of blue",
-      "instructor_id": 87752,
-      "category_id": 1,
-      "level": 3,
-      "duration": 2903,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/083/m.png?1622210887",
-      "published": 1345115340000
-    },
-    {
-      "id": 11,
-      "name": "BC2 - ",
-      "instructor_id": 87755,
-      "category_id": 1,
-      "level": 2,
-      "duration": 3091,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/077/m.png?1622386699",
-      "published": 1345141500000
-    },
-    {
-      "id": 10,
-      "name": "BC2 - El mar",
-      "instructor_id": 32461,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3360,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/079/m.png?1622210883",
-      "published": 1344696060000
-    },
-    {
-      "id": 9,
-      "name": "BC19 - ",
-      "instructor_id": 15029,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3217,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/071/m.png?1622803438",
-      "published": 1349785200000
-    },
-    {
-      "id": 8,
-      "name": "BC18 - ",
-      "instructor_id": 15029,
-      "category_id": 1,
-      "level": 2,
-      "duration": 3145,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/065/m.png?1622386688",
-      "published": 1348228740000
-    },
-    {
-      "id": 7,
-      "name": "BC17 - ",
-      "instructor_id": 15029,
-      "category_id": 1,
-      "level": 2,
-      "duration": 3260,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/059/m.png?1622803427",
-      "published": 1343135160000
-    },
-    {
-      "id": 6,
-      "name": "BC12 - Dos grandes montañas",
-      "instructor_id": 32461,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3236,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/077/m.png?1622210881",
-      "published": 1325802000000
-    },
-    {
-      "id": 5,
-      "name": "BC1 - ",
-      "instructor_id": 87753,
+      "name": "BC27 - Progresa Vs. Entrena ",
+      "instructor_id": 7445,
       "category_id": 1,
       "level": 3,
       "duration": 3133,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/051/m.png?1622386681",
-      "published": 1340881320000
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/316/181/m.png?1631614871",
+      "published": 1631602800000
+    },
+    {
+      "id": 21,
+      "name": "BW19 - Está de vuelta la SupermartXé",
+      "instructor_id": 7445,
+      "category_id": 2,
+      "level": 3,
+      "duration": 3716,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/316/177/m.png?1631625837",
+      "published": 1631602800000
+    },
+    {
+      "id": 20,
+      "name": "BC58 - Al borde del precipicio",
+      "instructor_id": 7235,
+      "category_id": 1,
+      "level": 3,
+      "duration": 2979,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/315/754/m.png?1631537241",
+      "published": 1631602800000
+    },
+    {
+      "id": 19,
+      "name": "BR25 - Hacia la carrera",
+      "instructor_id": 34611,
+      "category_id": 31,
+      "level": 2,
+      "duration": 2312,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/316/263/m.png?1631622899",
+      "published": 1631606400000
+    },
+    {
+      "id": 18,
+      "name": "BT142 - Remodela y tonifica tu torso.",
+      "instructor_id": 87753,
+      "category_id": 41,
+      "level": 2,
+      "duration": 1949,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/315/764/m.png?1631537474",
+      "published": 1631610060000
+    },
+    {
+      "id": 17,
+      "name": "BT143 - Training legs",
+      "instructor_id": 199516,
+      "category_id": 41,
+      "level": 2,
+      "duration": 1726,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/312/337/m.png?1630304397",
+      "published": 1631613660000
+    },
+    {
+      "id": 16,
+      "name": "BB47 - Combinando trenes",
+      "instructor_id": 66080,
+      "category_id": 11,
+      "level": 3,
+      "duration": 2515,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/316/175/m.png?1631603912",
+      "published": 1631614260000
+    },
+    {
+      "id": 15,
+      "name": "BC14 - El camino",
+      "instructor_id": 245415,
+      "category_id": 1,
+      "level": 3,
+      "duration": 3084,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/306/159/m.png?1632216416",
+      "published": 1632207600000
+    },
+    {
+      "id": 14,
+      "name": "BC16 - Wake me up when summer ends",
+      "instructor_id": 127255,
+      "category_id": 1,
+      "level": 3,
+      "duration": 2824,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/317/979/m.png?1632312917",
+      "published": 1632207600000
+    },
+    {
+      "id": 13,
+      "name": "BC52 - Apuesta al 80",
+      "instructor_id": 34611,
+      "category_id": 1,
+      "level": 3,
+      "duration": 2317,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/317/956/m.png?1632211672",
+      "published": 1632207600000
+    },
+    {
+      "id": 12,
+      "name": "BR2 - Vuelo de ida y vuelta",
+      "instructor_id": 127255,
+      "category_id": 31,
+      "level": 2,
+      "duration": 2995,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/317/983/m.png?1632208090",
+      "published": 1632207660000
+    },
+    {
+      "id": 11,
+      "name": "BT65 - Pierna, fuerza y flow",
+      "instructor_id": 66080,
+      "category_id": 41,
+      "level": 1,
+      "duration": 2263,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/303/512/m.png?1626676655",
+      "published": 1632207720000
+    },
+    {
+      "id": 10,
+      "name": "BT112 - Burpee MAXPRESS",
+      "instructor_id": 199516,
+      "category_id": 41,
+      "level": 3,
+      "duration": 2018,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/312/335/m.png?1632138064",
+      "published": 1632207900000
+    },
+    {
+      "id": 9,
+      "name": "BW32 - Viva la vida",
+      "instructor_id": 34611,
+      "category_id": 2,
+      "level": 3,
+      "duration": 3054,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/318/355/m.png?1632209428",
+      "published": 1632211260000
+    },
+    {
+      "id": 8,
+      "name": "BB50 - Lateralmente hablando",
+      "instructor_id": 120030,
+      "category_id": 11,
+      "level": 2,
+      "duration": 2414,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/317/950/m.png?1632140683",
+      "published": 1632211500000
+    },
+    {
+      "id": 7,
+      "name": "BC39 - ¿Versión nivel 2 o versión nivel 1?",
+      "instructor_id": 55689,
+      "category_id": 1,
+      "level": 2,
+      "duration": 2975,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/320/803/m.png?1632822618",
+      "published": 1632812400000
+    },
+    {
+      "id": 6,
+      "name": "BW28 - Aquellos tiempos",
+      "instructor_id": 106770,
+      "category_id": 2,
+      "level": 2,
+      "duration": 3308,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/320/309/m.png?1632829253",
+      "published": 1632812400000
+    },
+    {
+      "id": 5,
+      "name": "BC88 - Triple escalera de color",
+      "instructor_id": 87753,
+      "category_id": 1,
+      "level": 3,
+      "duration": 3177,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/315/751/m.png?1631537426",
+      "published": 1632812400000
     },
     {
       "id": 4,
-      "name": "BC1 - Aquí empezó todo",
-      "instructor_id": 87754,
-      "category_id": 1,
-      "level": 2,
-      "duration": 2982,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/074/m.png?1622210878",
-      "published": 1348228320000
+      "name": "BB37 - Básico y sin dolor",
+      "instructor_id": 199519,
+      "category_id": 11,
+      "level": 1,
+      "duration": 2299,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/320/790/m.png?1632811267",
+      "published": 1632812520000
     },
     {
       "id": 3,
-      "name": "BC1 - Mirage",
-      "instructor_id": 87752,
-      "category_id": 1,
+      "name": "BR12 - Full series.",
+      "instructor_id": 125670,
+      "category_id": 31,
       "level": 3,
-      "duration": 3245,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/072/m.png?1622210876",
-      "published": 1340297700000
+      "duration": 2570,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/320/316/m.png?1632821543",
+      "published": 1632812580000
     },
     {
       "id": 2,
-      "name": "BC1 - ",
-      "instructor_id": 87755,
-      "category_id": 1,
+      "name": "BT113 - Vaporizador de calorías",
+      "instructor_id": 127255,
+      "category_id": 41,
       "level": 3,
-      "duration": 2935,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/052/049/m.png?1622803422",
-      "published": 1342094340000
+      "duration": 2870,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/317/991/m.png?1632126221",
+      "published": 1632812820000
     },
     {
       "id": 1,
-      "name": "BC1 - Reyes del Rock",
-      "instructor_id": 32461,
-      "category_id": 1,
-      "level": 3,
-      "duration": 3300,
-      "image": "https://cdn0.bestcycling.es/image_covers/images/000/000/068/m.png?1622803421",
-      "published": 1346260380000
+      "name": "BT144 - Fuerza con plus",
+      "instructor_id": 199516,
+      "category_id": 41,
+      "level": 2,
+      "duration": 1854,
+      "image": "https://cdn0.bestcycling.es/image_covers/images/000/317/965/m.png?1632120720",
+      "published": 1632813360000
     }
   ]
 }

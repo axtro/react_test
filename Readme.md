@@ -35,8 +35,7 @@ Requisitos:
 
 - Implementar Pantalla de Inicio lo más similar posible a la siguiente imagen:
 
-![Home 1](images/home1.png)
-![Home 2](images/home2.png)
+![Home](images/home.png)
 
 Debe mostrar las últimas 9 clases que devuelva el API.
 Al hacer click en una clase se accede al reproductor de la clase.
@@ -75,17 +74,17 @@ Requisitos:
 
 - El listado debe modificarse para incluir un checkbox de selección para poder selecionar una o varias clases:
 
-  ![Reproductor](images/seleccion-clases.png)
+  ![Selección de clases](images/seleccion-clases1.png)
 
 - Si se selecciona una clase aparecerá el botón de "Iniciar reproducción" automáticamente.
 
-  ![Reproductor](images/seleccion-clases.png)
+  ![Selección clases](images/seleccion-clases2.png)
 
   Si el usuario selecciona n clases deben reproducirse una tras otra, actualizando el título y el instructor de cada clase.
 
 - En el listado debe aparecer la etiqueta en las clases que han sido realizadas, es decir, las clases que se han reproducido totalmente.
 
-  ![Reproductor](images/seleccion-clases.png)
+  ![Reproductor](images/seleccion-clases2.png)
 
 ---
 
@@ -113,7 +112,7 @@ Requisitos:
 
 - Si el usuario está suscrito debe aparecer el tiempo de suscripción restante en el layout. Al llegar a 0 debe cambiar el estado a "Suscribirse" o "Renovación pendiente" en caso de que el usuario haya marcado la autorenovación)
 
-  ![Layout suscripción](images/layout-suscripcion.png)
+  ![Layout suscripción](images/layout-suscripcion1.png)
 
 - La página de suscripción debe indicar el estado de la suscripción en caso de estar suscrito y cambiar la opción de autorenovación.
 
